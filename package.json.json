@@ -1,0 +1,40 @@
+{
+  "_from": "avatar-2-el-camino-del-agua-pelicula-completa-online",
+  "_inBundle": false,
+  "_integrity": "sha512-oyGhlYtWMgOFmG99Up+4DK6gJcnZQHyPyiYHmIjofCDlFavTWl0CJ7k+wsVmwRzj5TWBOIa//r3w4Bdevq4H4w==",
+  "_location": "/avatar-2-el-camino-del-agua-pelicula-completa-online",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "avatar-2-el-camino-del-agua-pelicula-completa-online",
+    "name": "avatar-2-el-camino-del-agua-pelicula-completa-online",
+    "escapedName": "avatar-2-el-camino-del-agua-pelicula-completa-online",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/avatar-2-el-camino-del-agua-pelicula-completa-online/-/avatar-2-el-camino-del-agua-pelicula-completa-online-1.0.0.tgz",
+  "_shasum": "981b679575523e302dace31aa707ebf5bd9b6223",
+  "_spec": "avatar-2-el-camino-del-agua-pelicula-completa-online",
+  "_where": "C:\\Users\\imdb",
+  "author": "imdb21",
+  "bundleDependencies": false,
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "deprecated": false,
+  "description": "**27 secs ago - Still Now Here Option’s to Downloading or watching Puss In Boots: The Last Wish streaming the full movie online for free. Do you like movies? If so, then you’ll love New Romance Movie: Puss In Boots: The Last Wish. This movie is one of the best in its genre. #Puss In Boots: The Last Wish will be available to watch online on Netflix's very soon!",
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "index.js",
+  "name": "avatar-2-el-camino-del-agua-pelicula-completa-online",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "3.0.1"
+}
